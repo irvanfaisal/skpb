@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="rdrlayer">
+  <name>rdrlayer</name>
+  <Snippet></Snippet>
+  <GroundOverlay id="0">
+    <Snippet></Snippet>
+    <description><![CDATA[rdrlayer]]></description>
+    <drawOrder>1000</drawOrder>
+    <name>rdrlayer</name>
+    <Icon>
+      <href>data/iklim/kmz_202336/Layer0.png</href>
+      <viewBoundScale>1.0</viewBoundScale>
+    </Icon>
+    <LatLonBox>
+      <north>-8.3543</north>
+      <south>-9.0047</south>
+      <east>116.482</east>
+      <west>116.056</west>
+      <rotation>0</rotation>
+    </LatLonBox>
+  </GroundOverlay>
+</Document>
+</kml>
